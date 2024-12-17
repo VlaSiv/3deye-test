@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "test_generated_file.txt"
+    }
+  }
+}

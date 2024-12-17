@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileCreator": {
+      "commandName": "Project",
+      "commandLineArgs": "test_generated_file.txt\r\n100"
+    }
+  }
+}
